@@ -1,0 +1,16 @@
+{
+  "name": "node_learning_course",
+  "version": "1.0.0",
+  "description": "Node Learning Course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+    
+  },
+  "author": "Brandon",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
